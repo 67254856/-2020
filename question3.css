@@ -6,11 +6,12 @@ body{background-image:url(haikei3.jpg) ;
     background-blend-mode: lighten;
 }
 h1{font-size: 500%;
-color:orange;
--webkit-text-stroke: 3px #000;
-}
-input{font-size: 300%;}
-.hinto{font-size: 300%;
-color: orangered;
--webkit-text-stroke: 1px rgb(0, 0, 0);
-}
+    color:orange;
+    -webkit-text-stroke: 3px #000;
+    }
+    input{font-size: 300%;}
+    .hinto{font-size: 300%;
+    color: orangered;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    }
+    
